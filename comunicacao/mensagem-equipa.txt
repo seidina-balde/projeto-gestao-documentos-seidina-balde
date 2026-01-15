@@ -1,0 +1,7 @@
+Mensagem para a equipa
+
+Durante esta semana, configurámos o repositório de documentação do projeto.
+Já existem pastas para planeamento, atas, relatórios, comunicação e anexos.
+As primeiras atas e requisitos foram registados.
+É importante que todos utilizem as branches diárias para fazer alterações.
+No final de cada dia, as alterações validadas serão integradas na main.
