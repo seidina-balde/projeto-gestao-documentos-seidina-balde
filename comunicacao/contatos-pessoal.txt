@@ -2,3 +2,6 @@ Contactos da equipa
 
 - Ana Silva - ana.silva@example.com
 - João Santos - joao.santos@example.com
+Contactos da equipa
+
+- Maria Costa - maria.costa@example.com

@@ -1,0 +1,10 @@
+Requisitos do projeto
+
+1. Armazenar todas as atas de reunião.
+2. Manter histórico de versões dos documentos.
+3. Organizar documentos por tipo.
+4. Permitir identificação rápida de requisitos.
+5. Documentar relatórios semanais.
+6. Registar contactos da equipa.
+7. Registar decisões e ações de reuniões.
+8. Facilitar revisão final da documentação.
