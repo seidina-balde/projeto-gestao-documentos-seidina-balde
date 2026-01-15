@@ -1,0 +1,13 @@
+Plano de execução
+
+Fase 1 - Preparação
+- Definir estrutura de diretórios.
+- Criar documentos base de planeamento.
+
+Fase 2 - Execução
+- Registar atas de todas as reuniões.
+- Atualizar requisitos e relatórios semanalmente.
+
+Fase 3 - Fecho
+- Consolidar relatório final.
+- Rever e corrigir toda a documentação.

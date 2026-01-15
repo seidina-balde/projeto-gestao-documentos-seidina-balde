@@ -8,3 +8,5 @@ Requisitos do projeto
 6. Registar contactos da equipa.
 7. Registar decisões e ações de reuniões.
 8. Facilitar revisão final da documentação.
+9. [Prioridade Alta] Armazenar todas as atas de reunião.
+10. [Prioridade Alta] Manter histórico de versões dos documentos.
